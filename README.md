@@ -105,7 +105,7 @@ I’ve included screenshots of:
 ## 📄 Full Report
 
 You can view the complete project report here:
-👉 [Open Full Project Report](docs/snort _lab.pdf)
+👉 [Open Full Project Report](https://github.com/adonis-sec/snort_lab/raw/main/docs/snort_lab.pdf)
 
 🎯 What I Learned
 How network traffic behaves (TCP/IP basics)
