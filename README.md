@@ -101,7 +101,6 @@ I’ve included screenshots of:
 ### SQL Injection Detection
 ![SQL Injection](screenshots/sql.png)
 
-👉 Check the /screenshots folder
 
 ## 📄 Full Report
 
